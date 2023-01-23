@@ -38,10 +38,12 @@
   }
 
   &__inner {
+		width: 690px;
     display: flex;
+		justify-content: center;
     align-items: center;
     column-gap: 30px;
     border: 1px solid #fff;
-		padding: 30px 50px;
+		padding: 30px 0;
   }
 }
